@@ -1,7 +1,9 @@
 **2048-Game**
+
 This is a basic implementation of the 2048 game using HTML, CSS, and JavaScript.
 
 **Introduction**
+
 2048 is a popular sliding tile puzzle game where the objective is to combine tiles with the same value to reach the number 2048.
 
 **Game Rules**
